@@ -155,7 +155,7 @@ Upload to GitHub Pages for free hosting.
 </html>
 ```
 
-## OUTPUT
+## OUTPUT :
 
 ![alt text](image.png)
 
